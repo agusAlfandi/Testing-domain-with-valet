@@ -13,9 +13,20 @@
         <!-- Styles / Scripts -->
     
     </head>
-    <body class="flex min-h-screen items-center justify-center h-full bg-gray-100">
-        <div class="text-center">
-            <h1 class="text-4xl font-bold">Hello test</h1>
-        </div>
+    <body >
+        <div
+  class="hero min-h-screen"
+  style="background-image: url(https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp);">
+  <div class="hero-overlay bg-opacity-60"></div>
+  <div class="hero-content text-neutral-content text-center">
+    <div class="max-w-md">
+      <h1 class="mb-5 text-5xl font-bold">Hello test</h1>
+      <p class="mb-5">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum nihil sequi in voluptates, a dignissimos at magnam assumenda cumque, dicta, magni natus totam dolorum molestias dolores optio ea aliquam! Ea.
+      </p>
+      <button class="btn btn-primary">Get Started</button>
+    </div>
+  </div>
+</div>
     </body>
 </html>
