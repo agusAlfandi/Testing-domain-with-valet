@@ -1,7 +1,7 @@
 Hasil konfigurasi dengan valet di linux mint 
 
-![Valet](https://github.com/user-attachments/assets/ab77ff5b-6189-4733-b3db-8996a524dc50)
+![new term](https://github.com/user-attachments/assets/a137fe54-da71-43bd-8926-605f48b68768)
 
 hasil project
 
-![zhahaha](https://github.com/user-attachments/assets/ce5eb530-f9c5-4c21-8f01-7b186b01a6e8)
+![new test](https://github.com/user-attachments/assets/b3b4b6e9-ac35-42a5-a672-fa6dfe571220)
